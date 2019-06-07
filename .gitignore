@@ -1,0 +1,23 @@
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+# /tests
+
+# dist
+/dist
+/node_modules
+
+.DS_Store
+# conf
+
+/docs
